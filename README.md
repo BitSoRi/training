@@ -1,3 +1,3 @@
 # training
 
-#섯다 만들기
+#just trial
